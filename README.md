@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Võ Hữu Trí!
-### Fullstack Web & Mobile Developer | IT Student at University of Science (HCMUS) 🟠🔵🟢
+### Fullstack Web & Mobile Developer | IT Student at University of Science (HUTECH) 🟠🔵🟢
 
 <p align="left">
   <a href="https://mercy222222.github.io/webbanhang/"><img src="https://img.shields.io/badge/🌐_Portfolio-06B6D4?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
